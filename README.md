@@ -14,7 +14,7 @@ Once all questions are answered, the total score will be displayed along with co
 
  # Experience :
 
-           Deployed the application on Netlify. You can access it:- https://javascript-quizs.netlify.app/
+  Deployed the application on Netlify. You can access it:-   https://javascript-quizs.netlify.app/
 
 # Files Included:
 index.html: HTML file containing the structure of the quiz application.
